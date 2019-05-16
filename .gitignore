@@ -1,0 +1,7 @@
+.ups-warehouse-app-firebase-adminsdk-97yy8-2a2c26ad1b.json
+.venv/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+./requirements.txt

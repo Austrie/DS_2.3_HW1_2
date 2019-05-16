@@ -1,0 +1,11 @@
+pip
+flask
+flask_restplus
+tensorflow
+keras
+numpy
+Pillow
+werkzeug
+setuptools
+virtualenv
+firebase_admin
